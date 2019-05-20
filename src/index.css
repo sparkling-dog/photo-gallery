@@ -8,3 +8,7 @@ img {
     width: auto;
     height: 300px;
 }
+
+ul {
+    list-style-type: none;
+}
