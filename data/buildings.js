@@ -16,7 +16,20 @@ const buildings = [
         title: 'Machu-Picchu',
         description: 'Ancient Peruvian building 15th century a.d.',
         keyword: 'picchu'
+    },
+    {
+        src: './assets/Mosque-at-Djenne.jpg',
+        title: 'Mosque-at-Djenne',
+        description: 'Old African building 14th century a.d.',
+        keyword: 'djenne'
+    },
+    {
+        src: './assets/Petra.jpg',
+        title: 'Petra',
+        description: 'Ancient Jordanian building from 1st century a.d.',
+        keyword: 'petra'
     }
+
 ];
 
 export default buildings;
