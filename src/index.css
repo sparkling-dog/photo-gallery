@@ -12,3 +12,11 @@ img {
 ul {
     list-style-type: none;
 }
+
+header {
+    background-color: rgb(219, 184, 104);
+}
+
+body {
+    background-color: lightslategrey;
+}
